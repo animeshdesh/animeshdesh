@@ -2,7 +2,7 @@
 #### Frontend Developer / Engineer / Freelancer 
 ![Frontend Developer / Engineer / Freelancer ](https://i.ibb.co/FYfYvgk/Frontend-Developer1.png)
 
-Hey there! 👋 I'm a passionate frontend developer hailing from the vibrant city of Pune, Maharashtra. At the ripe age of 23, I've already spent 1.5 exciting years as a programmer analyst at Cognizant, where I honed my skills in the MERN stack.
+Hey there! 👋 I'm a passionate frontend developer hailing from the vibrant city of Pune, Maharashtra. At the age of 23, I've already spent 1.5 exciting years as a programmer analyst at Cognizant, where I honed my skills in the MERN stack.
 
 I find immense joy in crafting web applications and tackling those brain-teasing, complex features. With several projects under my belt, I'm on a quest to keep learning and growing.
 
