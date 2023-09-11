@@ -12,6 +12,19 @@ Let's connect and collaborate on some cool projects together! 🌟
 
 Skills:  REACT / JS / HTML / CSS / NODE / EXPRESSJS / MONGODB / REDUX / TAILWIND CSS / MATERIAL UI / 
 
+Live Project Links - 
+
+Qkart (Shopping Web App) - https://qkart-frontend-animeshd.netlify.app/
+
+Qtify (Shopping Clone) - https://qtify-animesh-deshmukh.netlify.app/
+
+Xboard (News Web App) - https://xboard-animesh.netlify.app/
+
+NotsoSimpleTodo (Fun todo App) - https://notsosimpletodo.netlify.app/
+
+Admin UI (CRM App) - https://admin-ui-animesh.netlify.app/
+
+
 - 🔭 I’m currently working Netflix Clone!
 
 ## 🌐 Socials:
