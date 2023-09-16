@@ -20,7 +20,9 @@ Qtify (Shopping Clone) - https://qtify-animesh-deshmukh.netlify.app/
 
 Xboard (News Web App) - https://xboard-animesh.netlify.app/
 
-NotsoSimpleTodo (Fun todo App) - https://notsosimpletodo.netlify.app/
+Todo App (React DND) - https://tododragndrop-animesh.netlify.app/
+
+CanvasElements - https://canvasdragndrop.netlify.app/
 
 Admin UI (CRM App) - https://admin-ui-animesh.netlify.app/
 
