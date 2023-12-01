@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Animesh
 #### Frontend Developer / Engineer / Freelancer 
-![Frontend Developer / Engineer / Freelancer ](https://i.ibb.co/FYfYvgk/Frontend-Developer1.png)
 
-Hey there! 👋 I'm a passionate frontend developer hailing from the vibrant city of Pune, Maharashtra. At the age of 23, I've already spent 1.5 exciting years as a programmer analyst at Cognizant, where I honed my skills in the MERN stack.
+
+Hey there! 👋 I'm a passionate frontend developer hailing from the vibrant city of Pune, Maharashtra. At the age of 23, I've already spent 2 exciting years as a programmer analyst at Cognizant, where I honed my skills in the MERN stack.
 
 I find immense joy in crafting web applications and tackling those brain-teasing, complex features. With several projects under my belt, I'm on a quest to keep learning and growing.
 
@@ -10,21 +10,7 @@ My current mission? Well, I'm all about beefing up my GitHub repository with som
 
 Let's connect and collaborate on some cool projects together! 🌟
 
-Skills:  REACT / JS / HTML / CSS / NODE / EXPRESSJS / MONGODB / REDUX / TAILWIND CSS / MATERIAL UI / 
-
-Live Project Links - 
-
-Qkart (Shopping Web App) - https://qkart-frontend-animeshd.netlify.app/
-
-Qtify (Shopping Clone) - https://qtify-animesh-deshmukh.netlify.app/
-
-Xboard (News Web App) - https://xboard-animesh.netlify.app/
-
-Todo App (React DND) - https://tododragndrop-animesh.netlify.app/
-
-CanvasElements - https://canvasdragndrop.netlify.app/
-
-Admin UI (CRM App) - https://admin-ui-animesh.netlify.app/
+Skills:  REACT / TS / NEXTJS / HTML / CSS / NODE / EXPRESSJS / MONGODB / REDUX / TAILWIND CSS / MATERIAL UI / 
 
 
 - 🔭 I’m currently working Netflix Clone!
