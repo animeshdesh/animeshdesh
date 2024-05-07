@@ -2,7 +2,7 @@
 #### Frontend Developer / Engineer / Freelancer 
 
 
-Hey there! 👋 I'm a passionate frontend developer hailing from the vibrant city of Pune, Maharashtra.
+Hey there! 👋 I'm a passionate Full stack developer hailing from the vibrant city of Pune, Maharashtra.
 Now i am working in product based company which Products
 
 I find immense joy in crafting web applications and tackling those brain-teasing, complex features. With several projects under my belt, I'm on a quest to keep learning and growing.
